@@ -1,0 +1,13 @@
+C:\start\Alignment\bin\Debug\netstandard2.0\Alignment.deps.json
+C:\start\Alignment\bin\Debug\netstandard2.0\Alignment.dll
+C:\start\Alignment\bin\Debug\netstandard2.0\Alignment.pdb
+C:\start\Alignment\obj\Debug\netstandard2.0\Alignment.csproj.AssemblyReference.cache
+C:\start\Alignment\obj\Debug\netstandard2.0\Alignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\start\Alignment\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\start\Alignment\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\start\Alignment\obj\Debug\netstandard2.0\Alignment.AssemblyInfoInputs.cache
+C:\start\Alignment\obj\Debug\netstandard2.0\Alignment.AssemblyInfo.cs
+C:\start\Alignment\obj\Debug\netstandard2.0\Alignment.csproj.CoreCompileInputs.cache
+C:\start\Alignment\obj\Debug\netstandard2.0\XamlC.stamp
+C:\start\Alignment\obj\Debug\netstandard2.0\Alignment.dll
+C:\start\Alignment\obj\Debug\netstandard2.0\Alignment.pdb

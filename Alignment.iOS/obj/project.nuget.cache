@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eDj0UDFkWyTmLnCsSKycdc8l82giLKJQZvlnzniO98Qe1xWWglTV0XF0vF/iRoIG22BtsihCq8Bf8n9Bj+uUog==",
+  "success": true,
+  "projectFilePath": "C:\\start\\Alignment.iOS\\Alignment.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ratul Ali\\.nuget\\packages\\xamarin.forms\\4.0.0.62955-pre2\\xamarin.forms.4.0.0.62955-pre2.nupkg.sha512",
+    "C:\\Users\\Ratul Ali\\.nuget\\packages\\xamarin.ios.materialcomponents\\60.1.0\\xamarin.ios.materialcomponents.60.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
